@@ -1,0 +1,22 @@
+.WeatherInfo {
+  text-align: center;
+  margin: 2rem;
+  border: 4px solid black;
+  border-radius: 12px;
+  
+
+}
+
+.city-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   text-decoration: underline;
+   
+
+  
+}
+
+svg {
+  margin: 0 2 0 1rem;
+}
